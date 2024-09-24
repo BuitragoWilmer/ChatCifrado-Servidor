@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatCifrado Servidor", "ChatCifrado Servidor\ChatCifrado Servidor.csproj", "{30312293-3372-4DFE-AE88-0780358F9B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifrarMensaje", "CifrarMensaje\CifrarMensaje.csproj", "{F846E439-652E-44DE-9C87-C6885D2B13E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30312293-3372-4DFE-AE88-0780358F9B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30312293-3372-4DFE-AE88-0780358F9B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30312293-3372-4DFE-AE88-0780358F9B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30312293-3372-4DFE-AE88-0780358F9B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F846E439-652E-44DE-9C87-C6885D2B13E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F846E439-652E-44DE-9C87-C6885D2B13E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F846E439-652E-44DE-9C87-C6885D2B13E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F846E439-652E-44DE-9C87-C6885D2B13E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD2A6F1-6D29-4EC7-BFC4-87C4C013AD6B}
+	EndGlobalSection
+EndGlobal
